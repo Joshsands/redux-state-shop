@@ -21,10 +21,11 @@
 // };
 
 // export { StoreProvider, useStoreContext };
-
+import { composeWithDevTools } from 'redux-devtools-extension'
 import { rootReducer } from './reducers';
 import { createStore } from 'redux';
 
-const store = createStore(rootReducer)
+const composedEnhancer = composeWithDevTools();
+const store = createStore(rootReducer, composedEnhancer)
 
 export default store;

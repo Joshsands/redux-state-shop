@@ -16,10 +16,10 @@
 
 ## Visual Demonstration
 
-![Virtual Book Club Snapshot](assets/snapshot.jpg)
+![Redux State Shop](assets/snapshot.jpg)
 
 ## Visual Demonstration
-* [Deployed Application](https://virtual-book-club.herokuapp.com/)
+* [Deployed Application](https://reduxstateshop.herokuapp.com/)
 
 ## Project Description
 

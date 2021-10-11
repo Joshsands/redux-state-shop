@@ -16,7 +16,7 @@
 
 ## Visual Demonstration
 
-![Redux State Shop](assets/snapshot.jpg)
+![Redux State Shop](client/assets/snapshot.jpg)
 
 ## Visual Demonstration
 * [Deployed Application](https://reduxstateshop.herokuapp.com/)

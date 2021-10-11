@@ -1,4 +1,4 @@
-# Virtual Book Club
+# Redux State Shop
 
 ## License
 
@@ -23,7 +23,7 @@
 
 ## Project Description
 
-* A virtual library for finding and saving your favorite books.
+* A virtual shop using the redux state for product purchasing
 
 ## Installation Instructions
 
@@ -35,8 +35,8 @@
 
 ## Contributor Guidelines
 
-* [Submit bugs and feature requests](https://github.com/joshsands/virtual-book-club/issues).
-* Review [source code changes](https://github.com/joshsands/virtual-book-club/pulls).
+* [Submit bugs and feature requests](https://github.com/joshsands/redux-state-shop/issues).
+* Review [source code changes](https://github.com/joshsands/redux-state-shop/pulls).
 
 ## Test Instructions
 
